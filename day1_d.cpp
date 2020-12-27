@@ -21,7 +21,7 @@ int main(){
                 {
                     cout<<"the number is "<<i;
                 }
-            }
+            }q
             if(fact!=num){
                 cout<<"sorry,the number is not a factorial";
             }             
